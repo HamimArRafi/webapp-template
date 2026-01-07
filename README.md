@@ -106,6 +106,10 @@ Create a `.env.local` file in the project root:
 
 ```env
 NEXT_PUBLIC_API_BASE_URL=http://localhost:8000/api
+NEXT_PUBLIC_SENTRY_DSN=https://examplePublicKey@o0.ingest.sentry.io/0
+SENTRY_ORG=ravix-studio
+SENTRY_PROJECT=javascript-nextjs
+SENTRY_AUTH_TOKEN=your-sentry-auth-token
 ```
 
 The environment variables are validated at runtime using Zod. If `NEXT_PUBLIC_API_BASE_URL` is missing or invalid, the app will throw an error on startup.
