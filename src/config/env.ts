@@ -2,9 +2,8 @@ import { z } from "zod";
 
 const envSchema = z.object({
   NEXT_PUBLIC_API_BASE_URL: z.url(),
-  NEXT_PUBLIC_SENTRY_DSN: z.string().url().optional(),
+  NEXT_PUBLIC_SENTRY_DSN: z.url(),
   SENTRY_AUTH_TOKEN: z.string().optional(),
-  // Used by @sentry/webpack-plugin for source map uploads
   SENTRY_ORG: z.string().optional(),
   SENTRY_PROJECT: z.string().optional(),
 });
